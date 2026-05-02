@@ -4,7 +4,7 @@ A Java-based cybersecurity dashboard that analyzes security logs, detects threat
 
 ---
 
-##Features
+## Features
 - Real-time log analysis
 - Threat classification (LOW, MEDIUM, HIGH, CRITICAL)
 - Audible alert for CRITICAL threats
@@ -14,39 +14,39 @@ A Java-based cybersecurity dashboard that analyzes security logs, detects threat
 
 ---
 
-##Login Screen
+## Login Screen
 ![Login](login.png)
 
 ---
 
-##Dashboard
+## Dashboard
 ![Dashboard](dashboard.png)
 
 ---
 
-##Critical Alert
+## Critical Alert
 ![Critical](critical.png)
 
 ⚠️ When a CRITICAL threat is detected, the system triggers an audible alert to notify the user immediately.
 
 ---
 
-##Report Export
+## Report Export
 ![Export](export.png)
 
 ---
 
-##Demo (Preview)
+## Demo (Preview)
 ![Demo](demo.gif)
 
 ---
 
-##Full Demo with Sound
+## Full Demo with Sound
 [Watch Video](demo.mp4)
 
 ---
 
-##Technologies Used
+## Technologies Used
 - Java
 - Swing GUI
 - OOP Concepts
@@ -55,10 +55,10 @@ A Java-based cybersecurity dashboard that analyzes security logs, detects threat
 
 ---
 
-##Project Overview
+## Project Overview
 This project simulates a cybersecurity monitoring system that processes log data, identifies suspicious behavior, and alerts the user through visual and audio signals.
 
 ---
 
-##Author
+## Author
 ENG. Saja 
