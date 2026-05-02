@@ -15,29 +15,29 @@ A Java-based cybersecurity dashboard that analyzes security logs, detects threat
 ---
 
 ## Login Screen
-![Login](CyberShield-Media/login.png)
+<img src="CyberShield-Media/login.png" width="400">
 
 ---
 
 ## Dashboard
-![Dashboard](CyberShield-Media/dashboard.png)
+<img src="CyberShield-Media/dashboard.png" width="600">
 
 ---
 
 ## Critical Alert
-![Critical](CyberShield-Media/critical.png)
+<img src="CyberShield-Media/critical.png" width="600">
 
-⚠️ When a CRITICAL threat is detected, the system triggers an audible alert to notify the user immediately.
+<p>⚠️ When a CRITICAL threat is detected, the system triggers an audible alert to notify the user immediately.</p>
 
 ---
 
 ## Report Export
-![Export](CyberShield-Media/export.png)
+<img src="CyberShield-Media/export.png" width="500">
 
 ---
 
 ## Demo (Preview)
-![Demo](CyberShield-Media/demo.gif)
+<img src="CyberShield-Media/demo.gif" width="600">
 
 ---
 
